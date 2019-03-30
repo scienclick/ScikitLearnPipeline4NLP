@@ -1,3 +1,5 @@
+# Natural language processing and modelling using Scikitlearn pipelines
+In this repository I have stored my workflow for natural language processing using **Gradient Boosting**, **Random Forest**, **Naive Bayes** and Grid Search functionalities in *sklearn*. I used normal approach and **pipeline** and used **featured union** in the pipeline.
 
 ## Motivation
 
