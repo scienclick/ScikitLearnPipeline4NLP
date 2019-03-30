@@ -1,13 +1,13 @@
-# Natural language processing and modelling using Scikitlearn pipelines
+# Natural language processing and modelling using Scikitlearn Pipelines
 In this repository I have stored my workflow for natural language processing using **Gradient Boosting**, **Random Forest**, **Naive Bayes** and Grid Search functionalities in *sklearn*. I used normal approach and **pipeline** and used **featured union** in the pipeline.
 
 ## Motivation
 
-This Notebooks is my reference for doing a common **natural language processing** and modelling workflow. I wanted to apply both procedural workflow and **Scikitlearn Pipline** approach.
+This notebook is my reference for doing a common **natural language processing** and modelling workflow. I wanted to apply both procedural workflow and **Scikitlearn Pipline** approach.
 
 ## Usage example
 
-Can be used for Natural language processing
+Can be used for **natural language processing**
 
 ## Requirements
 
@@ -16,7 +16,7 @@ The libraries used in this note put are:
 2. pandas,
 3. numpy,
 4. sckitlearn,
-5. nltk,
+5. nltk
 
 ## Disclaimer:
 
@@ -30,9 +30,9 @@ The file is structured into following sections
 
 **Part 2: Splitting data and applying processing methods on them**
 
-**Part 3: naive bayes method**
+**Part 3: Naive bayes method**
 
-**Part 4: k-fold hold out**
+**Part 4: K-fold hold out**
 
 **Part 5: Random Forest, Gradient Boosting and modelling by GridSearch**
 
